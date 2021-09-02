@@ -1,0 +1,19 @@
+I love cryptography
+key = {abcdefghijklmnopqrstuvwxyz} letters correspond to letters below.
+      {zyxwvutsrqponmlkjihgfedcba}
+
+r olev xibkgltizksb
+
+i love cryptography
+
+
+Cyber Security Breaches
+
+Linkedin  had information for over 700 Million users earlier this year
+it sounds like the hacker used linkedins api to access data. All I could find
+is that the hacker used data scraping techniques to acquire all of these users 
+information from the api and then posted the information on the dark web, and
+sold much of the information as well. Linkedin claimed at first that no private 
+information was exposed but later the hacker posted information that contained 
+a lot of private info. It sounds like Linkedin is still in the process of fixing this issue
+and most likely making big changes within their api.
